@@ -20,18 +20,9 @@ ___
 ### Why work with me?
 I don't need people to work with me but I really appreciate it and will try to help in return.
 ___
-
-## Some people I have worked with.
-| Name  | link to profile |
-| ----- | --------------- |
-|  The Crafterpika | [Profile](https://github.com/CrafterPika) |
-| Namz | [Profile](https://github.com/namzop)|
-| Masternoob0 | [Profile](https://github.com/MasterNoob0)|
-| S0n1c268 | [Profile](https://github.com/s0n1c268)|
----
 ## Stats
 #### I know I'm not some god but here are my stats!
-![C0V1D-19 github stats](https://github-readme-stats.vercel.app/api?username=C0V1D-19&show_icons=true&theme=radical)
+![C0V1D-19 github stats](https://github-readme-stats.vercel.app/api?username=Cohen-Koen&show_icons=true&theme=radical)
 
 ---
 # <span style="color:blue" >Thanks for reading</span>
