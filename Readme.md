@@ -1,6 +1,6 @@
 
 # <span style="color:blue">Welcome to My GitHub Page!!!</span>
-![](https://komarev.com/ghpvc/?username=C0V1D-19&color=green)
+![](https://komarev.com/ghpvc/?username=C0V1D-19&color=blue)
 > I'm nobody big
  not doing big things
 just doing what I enjoy
