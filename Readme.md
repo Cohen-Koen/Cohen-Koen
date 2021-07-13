@@ -23,6 +23,6 @@ ___
 ## Stats
 #### I know I'm not some god but here are my stats!
 ![C0V1D-19 github stats](https://github-readme-stats.vercel.app/api?username=Cohen-Koen&show_icons=true&theme=radical)
-
+> I need to be more active
 ---
 # <span style="color:blue" >Thanks for reading</span>
