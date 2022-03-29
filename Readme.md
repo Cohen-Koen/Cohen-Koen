@@ -14,6 +14,8 @@ so you should too!!
    * this is my bot so it will probably be private *for now*...
 * <span style="color:cyan">Discord py quick installer</span>
    * *[link to project](https://github.com/C0V1D-19/discord-py-quick-install)*
+* #### <span style="color: blue"> WEB 3.0 guide </span>
+* * [Link](https://cohen-koen.github.io/web3.0-guide-and-site/)
 ---
 
 ### Who am I
