@@ -1,7 +1,6 @@
 
 # <span style="color:blue">Welcome to My GitHub Page!!!</span>
 ![](https://komarev.com/ghpvc/?username=Cohen-Koen&color=blue)
->tracker reset itself?!?
 
 > I'm nobody big
  not doing big things
