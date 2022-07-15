@@ -14,7 +14,7 @@ so you should too!!
 * <span style="color:cyan">Discord py quick installer</span>
    * *[link to project](https://github.com/cohen-koen/discord-py-quick-install)*
 * #### <span style="color: blue"> Riemann Hypothesis and Riemann Zeta function paper </span>
-* * [Work in progress](https://rpubs.com/Cohen_D/RZPV-1)
+    * [Work in progress](https://rpubs.com/Cohen_D/RZPV-1)
 ---
 
 ### Who am I
