@@ -11,10 +11,10 @@ so you should too!!
 ## Projects
 * #### <span style="color: hotpink">Datastructs: Algorithms</span>
    * [Incomplete Reference](https://github.com/Cohen-Koen/DataStructs/blob/master/Algorithms%20in%20a%20neat%20notebook.ipynb)
-* <span style="color:cyan">Discord py quick installer</span>
-   * *[link to project](https://github.com/cohen-koen/discord-py-quick-install)*
+* #### <span style="color:cyan">Discord py quick installer</span>
+   * [link to project](https://github.com/cohen-koen/discord-py-quick-install)*
 * #### <span style="color: blue"> Riemann Hypothesis and Riemann Zeta function paper </span>
-    * [Work in progress](https://rpubs.com/Cohen_D/RZPV-1)
+   * [Work in progress](https://rpubs.com/Cohen_D/RZPV-1)
 ---
 
 ### Who am I
