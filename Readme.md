@@ -1,11 +1,10 @@
+![SIGINT SUPERIOR](https://github.com/Cohen-Koen/Cohen-Koen/assets/62308340/1303275a-d9e1-47e6-9264-a5c9dead98df)
 
-# <span style="color:blue">Welcome to My GitHub Page!!!</span>
+
+
 ![](https://komarev.com/ghpvc/?username=Cohen-Koen&color=blue)
 
-> I'm nobody big
- not doing big things
-just doing what I enjoy
-so you should too!! 
+
 
 ---
 ## Projects
