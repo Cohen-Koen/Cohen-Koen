@@ -6,21 +6,21 @@
 
 
 ## about me
-I am Co, or Delta Eight Zeta, I am a student, a wrestler, and a wannabe mathematician.
-You can reach me on:
-Discord: delta8zeta
-I2P: d8z@i2p.net
-Email: cpd2x@mtmail.mtsu.edu
+I am Co, or Delta Eight Zeta, I am a student, a wrestler, and a wannabe mathematician. <br>
+>You can reach me on: <br>
+>Discord: delta8zeta <br>
+>I2P: d8z@i2p.net <br>
+>Email: cpd2x@mtmail.mtsu.edu <br>
 ---
 ## Projects Currently supported:
 > X-Band LNA and Filter
 ---
 ## Planned
-> S-Band LNA and Filter
-> L-Band LNA and Filter
-> VHF LNA and Filter
-> Find a way to make cascaded LNA with amps for higher gain
-> Possibly more Haskell, Erlang, or other functional language project, I mainly just miss programming
+> S-Band LNA and Filter <br>
+> L-Band LNA and Filter <br>
+> VHF LNA and Filter <br>
+> Find a way to make cascaded LNA with amps for higher gain <br>
+> Possibly more Haskell, Erlang, or other functional language project, I mainly just miss programming <br>
 ## Stats
 
 ![cohen-koen](https://github-readme-stats.vercel.app/api?username=Cohen-Koen&show_icons=true&theme=radical)
