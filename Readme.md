@@ -17,9 +17,6 @@
 > L-Band LNA and Filter <br>
 > VHF LNA and Filter <br>
 > X-Band Planar Array possibly integrated with the X Band LNB stack<br>
-## Stats
 
-![cohen-koen](https://github-readme-stats.vercel.app/api?username=Cohen-Koen&show_icons=true&theme=radical)
-> I need to work more
----
 # <span style="color:blue" >Have a Good one</span>
+
