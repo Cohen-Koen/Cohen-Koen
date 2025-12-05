@@ -15,14 +15,17 @@
 ## Projects Currently supported:
 > X-Band LNB stack (7.5-8.5, LNA, Filter, Mixing external LO Req) <br>
 > A Catalog of Measure Theoretic Partially Ordered Sets
+> S-Band LNA and Filter <br>
+> Math Blogging <br>
 ---
 ## Planned
-> S-Band LNA and Filter <br>
+
 > L-Band LNA and Filter <br>
 > VHF LNA and Filter <br>
 > X-Band Planar Array possibly integrated with the X Band LNB stack<br>
 
 # <span style="color:blue" >Have a Good one</span>
+
 
 
 
