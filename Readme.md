@@ -24,7 +24,9 @@
 > VHF LNA and Filter <br>
 > X-Band Planar Array possibly integrated with the X Band LNB stack<br>
 
-# <span style="color:blue" >Have a Good one</span>
+![](https://github.com/Cohen-Koen/Hamiltonian-Simulation/blob/b77316a4e3f3612ae102df544d023d16c0d7776d/plot_two_fermion-J-0.png)
+![](https://github.com/Cohen-Koen/Hamiltonian-Simulation/blob/b77316a4e3f3612ae102df544d023d16c0d7776d/plot_two_fermion-J-1.png)
+
 
 
 
