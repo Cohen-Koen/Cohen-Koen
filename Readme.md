@@ -18,7 +18,6 @@
 > S-Band LNA and Filter <br>
 > Math Blogging <br>
 > [A Julia Numerical Analysis and Simulation Notebook](https://colab.research.google.com/drive/1ekAlgHLHhUA3LsJSU9Lep6b2Cc390u_r?usp=sharing)
-> ![Split Step Fourier of the Dirac Equation](https://drive.google.com/file/d/1PuuDN6jI6Mg0NMgzOhpiTQbI0LNyY2dj/view?usp=drive_link)
 ![](https://github.com/Cohen-Koen/Hamiltonian-Simulation/blob/b77316a4e3f3612ae102df544d023d16c0d7776d/plot_two_fermion-J-0.png)
 ![](https://github.com/Cohen-Koen/Hamiltonian-Simulation/blob/b77316a4e3f3612ae102df544d023d16c0d7776d/plot_two_fermion-J-1.png)
 ---
@@ -27,6 +26,7 @@
 > L-Band LNA and Filter <br>
 > VHF LNA and Filter <br>
 > X-Band Planar Array possibly integrated with the X Band LNB stack<br>
+
 
 
 
