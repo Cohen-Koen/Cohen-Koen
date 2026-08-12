@@ -7,7 +7,8 @@
 >You can reach me on: <br>
 >Discord: delta8zeta <br>
 >I2P: d8z@i2p.net <br>
->Email: cpd2x@mtmail.mtsu.edu <br>
+><s> Email: cpd2x@mtmail.mtsu.edu <br></s>
+> Email: cdickey9@johnshopkins.edu
 ---
 ## About Me:
 ### Johns Hopkins 2030, Math and Physics.
