@@ -10,7 +10,7 @@
 >Email: cpd2x@mtmail.mtsu.edu <br>
 ---
 ## About Me:
-### Class of '26, I intend to double major in math and physics. I intend then to pursue a doctoral degree in mathematics.
+### Johns Hopkins 2030, Math and Physics.
 ---
 ## Projects Currently supported:
 > X-Band LNB stack (7.5-8.5, LNA, Filter, Mixing external LO Req) <br>
